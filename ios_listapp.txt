@@ -1,0 +1,22 @@
+{
+  "list_app": [
+    {
+      "icon": "https://raw.githubusercontent.com/daovu97/inofly-app/main/icon2.jpg",
+      "name": "Văn khấn",
+      "store_url": "https://apps.apple.com/app/id6448769201",
+      "store_id": "6448769201"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/daovu97/inofly-app/main/icon1.jpg",
+      "name": "ID-Photo Maker",
+      "store_url": "https://apps.apple.com/app/id6446017075",
+      "store_id": "6446017075"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/daovu97/inofly-app/main/icon3.jpg",
+      "name": "Color Note",
+      "store_url": "https://apps.apple.com/app/id6449649544",
+      "store_id": "6449649544"
+    }
+  ]
+}
