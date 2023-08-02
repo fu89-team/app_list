@@ -1,5 +1,5 @@
 {
-  "categroy": [
+  "category": [
     {
       "id": 1,
       "name": "Flower"
