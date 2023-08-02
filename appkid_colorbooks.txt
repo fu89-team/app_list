@@ -1,0 +1,20 @@
+{
+  "categroy": [
+    {
+      "id": 1,
+      "name": "Flower"
+    },
+    {
+      "id": 2,
+      "name": "Animal"
+    }
+  ],
+  "color_book": [
+    {
+      "id": 1,
+      "name": "32358151_7922553",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/qymb0orb6wj3osuh2kz7l/32358151_7922553.svg?rlkey=guu735ah32q6biglpu8imtuwn&dl=0",
+      "category_id": 1
+    }
+  ]
+}
