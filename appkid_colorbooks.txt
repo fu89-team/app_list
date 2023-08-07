@@ -17,7 +17,7 @@
     {
       "id": 1,
       "name": "animal_01",
-      "url": "https://dl.dropboxusercontent.com/scl/fi/gbj57m3wspvalgx7bgpua/animal_01.svg?rlkey=829yaduijmswrgxc11ziubnum&dl=0",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/rs2g66wkhyqqscbksuyff/animal_01.svg?rlkey=ns5y68055yhmf1wi9n7y4t5gv&dl=0",
       "category_id": 2
     },
     {
