@@ -7,14 +7,84 @@
     {
       "id": 2,
       "name": "Animal"
+    },
+    {
+      "id": 3,
+      "name": "Birthday"
     }
   ],
   "color_book": [
     {
       "id": 1,
-      "name": "32358151_7922553",
-      "url": "https://dl.dropboxusercontent.com/scl/fi/qymb0orb6wj3osuh2kz7l/32358151_7922553.svg?rlkey=guu735ah32q6biglpu8imtuwn&dl=0",
-      "category_id": 1
+      "name": "animal_01",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/gbj57m3wspvalgx7bgpua/animal_01.svg?rlkey=829yaduijmswrgxc11ziubnum&dl=0",
+      "category_id": 2
+    },
+    {
+      "id": 2,
+      "name": "birthday_01",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/res2015qsv630u85lvwqj/birthday_01.svg?rlkey=ve489z17j5xzwymrhcm3x4xdl&dl=0",
+      "category_id": 3
+    },
+    {
+      "id": 3,
+      "name": "animal_02",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/tevrraiqbyc07xm1fowq4/animal_02.svg?rlkey=14400rvnbuox1qpre0vsyek74&dl=0",
+      "category_id": 2
+    },
+    {
+      "id": 4,
+      "name": "animal_03",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/c01p2i5o5tzrnbfgiices/animal_03.svg?rlkey=cw0352e9mfy094ffreu288zij&dl=0",
+      "category_id": 2
+    },
+    {
+      "id": 5,
+      "name": "animal_04",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/2mchqxqvlx5ut6vdwq045/animal_04.svg?rlkey=9geqv4dhjlz13lt2iai692wkm&dl=0",
+      "category_id": 2
+    },
+    {
+      "id": 6,
+      "name": "animal_05",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/ktl00wrilvqg9vu1humn3/animal_05.svg?rlkey=gm9qledniegg9ihgdmzyytpgn&dl=0",
+      "category_id": 2
+    },
+    {
+      "id": 7,
+      "name": "animal_06",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/wmcvx8p592xrvw5xm1q5a/animal_06.svg?rlkey=ah97gunwsa1eanm02xxxji2i4&dl=0",
+      "category_id": 2
+    },
+    {
+      "id": 8,
+      "name": "animal_07",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/iri4zxe1j0kg7a7cd50wm/animal_07.svg?rlkey=ixkf7mhqrw8wr5yj1xgjcf207&dl=0",
+      "category_id": 2
+    },
+    {
+      "id": 9,
+      "name": "animal_08",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/73oixgrvwagwrqwl2g0bd/animal_08.svg?rlkey=4z5a3z4lsyh9n2xxir4vcj1rx&dl=0",
+      "category_id": 2
+    },
+    {
+      "id": 10,
+      "name": "animal_09",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/7ji73i8hpevo40ghfth7f/animal_09.svg?rlkey=3ywl9txlq3up4xjebnqo04kwo&dl=0",
+      "category_id": 2
+    },
+    {
+      "id": 11,
+      "name": "animal_10",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/l625fnu4q8g35j7u7c5gj/animal_10.svg?rlkey=x9zlicxw4se00bmqc3bk3il7h&dl=0",
+      "category_id": 2
+    },
+    {
+      "id": 12,
+      "name": "animal_11",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/n38jn8w52jz9bo7hoe89z/animal_11.svg?rlkey=hjisv8lcsc31rajlir6613vkk&dl=0",
+      "category_id": 2
     }
   ]
 }
