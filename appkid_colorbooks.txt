@@ -85,6 +85,12 @@
       "name": "animal_11",
       "url": "https://dl.dropboxusercontent.com/scl/fi/n38jn8w52jz9bo7hoe89z/animal_11.svg?rlkey=hjisv8lcsc31rajlir6613vkk&dl=0",
       "category_id": 2
+    },
+    {
+      "id": 13,
+      "name": "animal_12",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/jdtt72wpi8ggjobcd4t23/animal_12.svg?rlkey=fhcnmy8u0gez2a73comcxrfo2&dl=0",
+      "category_id": 2
     }
   ]
 }
