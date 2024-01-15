@@ -1,5 +1,11 @@
 {
   "list_app": [
+{
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/9b/97/3e9b97f9-54a6-7d85-dc5d-c0e89b887b26/AppIcon-0-1x_U007epad-0-0-85-220-0.jpeg/1024x1024bb.png",
+      "name": "Bear's Game",
+      "store_url": "https://apps.apple.com/app/id6462673526",
+      "store_id": "6448769201"
+    },
     {
       "icon": "https://raw.githubusercontent.com/daovu97/inofly-app/main/icon2.jpg",
       "name": "Văn khấn",
@@ -23,12 +29,6 @@
       "name": "TimeWarp-TimeWarp Scan Filter",
       "store_url": "https://apps.apple.com/app/id6450918679",
       "store_id": "6450918679"
-    },
-    {
-      "icon": "https://drive.google.com/uc?id=1_JKy-YlnnX72bAFWuo9vw4aYI4ptWmyd",
-      "name": "Tra cứu phạt nguội giao thông",
-      "store_url": "https://apps.apple.com/app/id6453687516",
-      "store_id": "6453687516"
     }
   ]
 }
