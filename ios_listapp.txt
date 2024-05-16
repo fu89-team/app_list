@@ -1,6 +1,6 @@
 {
   "list_app": [
-{
+    {
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/9b/97/3e9b97f9-54a6-7d85-dc5d-c0e89b887b26/AppIcon-0-1x_U007epad-0-0-85-220-0.jpeg/1024x1024bb.png",
       "name": "Bear's Game",
       "store_url": "https://apps.apple.com/app/id6462673526",
@@ -29,6 +29,18 @@
       "name": "TimeWarp-TimeWarp Scan Filter",
       "store_url": "https://apps.apple.com/app/id6450918679",
       "store_id": "6450918679"
+    },
+    {
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/0b/7b/240b7ba0-7f4f-13be-bafe-9bc514303cee/AppIcon-0-0-1x_U007epad-0-0-85-220.png/434x0w.png",
+      "name": "G-Order",
+      "store_url": "https://apps.apple.com/us/app/g-order/id6477413846",
+      "store_id": "6477413846"
+    },
+    {
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/41/9f/8b419f29-1045-a0be-9336-f84fc116c3f2/AppIcon-0-0-1x_U007epad-0-0-85-220.png/434x0w.png",
+      "name": "Bingo-Roulette",
+      "store_url": "https://apps.apple.com/us/app/bingo-roulette/id6499187214",
+      "store_id": "6499187214"
     }
   ]
 }
